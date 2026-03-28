@@ -2,8 +2,8 @@
 
 - S. Wang, N. DU, S. Wang, **J. Peng**, Y. Zeng, and Ray LC (2024). ARCHIVE IN THE FUTURE: Representing Interpretations of the Past with a Physical Robot and its VRChat Avatar. **ISEA2024 Everywhen**. 
 
-- **J. Peng** (2025). Trust Restoration Mechanisms for Autonomous Driving Systems in Safety-Critical Scenarios: An Interaction Strategy Based on Personalised Explanations. [cite_start]**The University of Hong Kong (Graduation Thesis)**. 
+- **J. Peng** (2025). Trust Restoration Mechanisms for Autonomous Driving Systems in Safety-Critical Scenarios: An Interaction Strategy Based on Personalised Explanations. **The University of Hong Kong (Graduation Thesis)**. 
 
-- **J. Peng** (2025). Performance Modeling and Energy Conservation in Mobile Networks. [cite_start]**City University of Hong Kong (Graduation Thesis)**. 
+- **J. Peng** (2025). Performance Modeling and Energy Conservation in Mobile Networks. **City University of Hong Kong (Graduation Thesis)**. 
 
 
