@@ -1,16 +1,9 @@
-#### Submitted
+- X. CHANG, Y. LI, X. Zeng, **J. Peng**, and Ray LC (2026). When Robot Overrides Us: The Impact of Autonomous Decisions on User Trust. **ACM/IEEE International Conference on Human-Robot Interaction (HRI)**. (Accepted) [[Paper]](https://new.precisionconference.com/hri26c/coauthor/subs/1392)
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- S. Wang, N. DU, S. Wang, **J. Peng**, Y. Zeng, and Ray LC (2024). ARCHIVE IN THE FUTURE: Representing Interpretations of the Past with a Physical Robot and its VRChat Avatar. **ISEA2024 Everywhen**. 
 
-#### Published
+- **J. Peng** (2025). Trust Restoration Mechanisms for Autonomous Driving Systems in Safety-Critical Scenarios: An Interaction Strategy Based on Personalised Explanations. [cite_start]**The University of Hong Kong (Graduation Thesis)**. 
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- **J. Peng** (2025). Performance Modeling and Energy Conservation in Mobile Networks. [cite_start]**City University of Hong Kong (Graduation Thesis)**. 
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
