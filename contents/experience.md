@@ -1,3 +1,9 @@
+---
+layout: page
+title: Other Experiences
+permalink: /Other Experiences/
+---
+
 #### Selected Experience
 
 - Motor Development Intern, Libpet Tech Limited (Hong Kong), 2023. Utilized SolidWorks and CAD for motor component optimization and 3D printing prototyping.
