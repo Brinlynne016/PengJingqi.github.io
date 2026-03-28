@@ -1,9 +1,9 @@
 #### Publications & Academic essays
 
-- X. CHANG, Y. LI, X. Zeng, **J. Peng**, and Ray LC (2026). When Robot Overrides Us: The Impact of Autonomous Decisions on User Trust. **ACM/IEEE International Conference on Human-Robot Interaction (HRI)**. (Accepted) [[Paper]](https://new.precisionconference.com/hri26c/coauthor/subs/1392)
+X. CHANG, Y. LI, X. Zeng, **J. Peng**, and Ray LC (2026). When Robot Overrides Us: The Impact of Autonomous Decisions on User Trust. **ACM/IEEE International Conference on Human-Robot Interaction (HRI)**. (Accepted) [[Paper]](https://new.precisionconference.com/hri26c/coauthor/subs/1392)
 
-- S. Wang, N. DU, S. Wang, **J. Peng**, Y. Zeng, and Ray LC (2024). ARCHIVE IN THE FUTURE: Representing Interpretations of the Past with a Physical Robot and its VRChat Avatar. **ISEA2024 Everywhen**. 
+S. Wang, N. DU, S. Wang, **J. Peng**, Y. Zeng, and Ray LC (2024). ARCHIVE IN THE FUTURE: Representing Interpretations of the Past with a Physical Robot and its VRChat Avatar. **ISEA2024 Everywhen**. 
 
-- **J. Peng** (2025). Trust Restoration Mechanisms for Autonomous Driving Systems in Safety-Critical Scenarios: An Interaction Strategy Based on Personalised Explanations. **The University of Hong Kong (Graduation Thesis)**. 
+**J. Peng** (2025). Trust Restoration Mechanisms for Autonomous Driving Systems in Safety-Critical Scenarios: An Interaction Strategy Based on Personalised Explanations. **The University of Hong Kong (Graduation Thesis)**. 
 
-- **J. Peng** (2025). Performance Modeling and Energy Conservation in Mobile Networks. **City University of Hong Kong (Graduation Thesis)**. 
+**J. Peng** (2025). Performance Modeling and Energy Conservation in Mobile Networks. **City University of Hong Kong (Graduation Thesis)**. 
