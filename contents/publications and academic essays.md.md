@@ -1,9 +1,3 @@
----
-layout: page
-title: Publications
-permalink: /publications/
----
-
 #### Publications & Academic essays
 
 - X. CHANG, Y. LI, X. Zeng, **J. Peng**, and Ray LC (2026). When Robot Overrides Us: The Impact of Autonomous Decisions on User Trust. **ACM/IEEE International Conference on Human-Robot Interaction (HRI)**. (Accepted) [[Paper]](https://new.precisionconference.com/hri26c/coauthor/subs/1392)
